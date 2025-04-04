@@ -14,7 +14,8 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a>
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#full-video-demonstration">Full Video Demonstration </a>
   
 
 
@@ -121,5 +122,9 @@ npm start
 node server.js
 ```
 
+## Full Video Demonstration
+
+Please check out the full video demonstration on YouTube via this link: **[HERE]( https://www.youtube.com/watch?v=eZTqcGVDcvcab_channelMichaelRosa
+)
 
 ---
